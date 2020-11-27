@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_asistencia_medica">Map</string>
+    <string name="title_activity_zona_riesgo">Map</string>
+    <string name="title_activity_rutas">Map</string>
+</resources>
